@@ -110,7 +110,7 @@ INCS_Release := \
 	-I/Users/holomdev/Library/Caches/node-gyp/14.4.0/deps/v8/include
 
 OBJS := \
-	$(obj).target/$(TARGET)/hola.o
+	$(obj).target/$(TARGET)/hello.o
 
 # Add to the list of files we specially track dependencies for.
 all_deps += $(OBJS)

@@ -2,7 +2,7 @@
     "targets": [
         {
             "target_name": "addon",
-            "sources": ["hola.cc"]
+            "sources": ["hello.cc"]
         }
     ]
 }
