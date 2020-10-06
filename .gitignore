@@ -94,3 +94,4 @@ modules.xml
 # End of https://www.toptal.com/developers/gitignore/api/jetbrains+all
 paquetes/npm/node_modules/
 paquetes/utils/node_modules/
+herramientas/scrapping/node_modules
